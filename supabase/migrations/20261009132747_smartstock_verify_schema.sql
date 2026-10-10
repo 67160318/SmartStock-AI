@@ -1,0 +1,2 @@
+-- Read-only post-deploy schema verification was recorded for this version.
+-- No additional database objects or data changes are required.
